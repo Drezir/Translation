@@ -27,26 +27,26 @@
 	<system:String x:Key="AddDrive.Drive">Drive</system:String>
 
 	<!--  Add New Storage  -->
-	<system:String x:Key="AddDrive.Network">Network</system:String>
-	<system:String x:Key="AddDrive.ReadOnly">Read-only</system:String>
-	<system:String x:Key="AddDrive.MountAtBoot">Reconnect at signin</system:String>
-	<system:String x:Key="AddDrive.AuthAtConnect">Connect using different credentials</system:String>
-	<system:String x:Key="AddDrive.Account">Account</system:String>
-	<system:String x:Key="AddDrive.Username">Username</system:String>
-	<system:String x:Key="AddDrive.Password">Password</system:String>
-	<system:String x:Key="AddDrive.Anonymous">Anonymous</system:String>
-	<system:String x:Key="AddDrive.Address">Address</system:String>
+	<system:String x:Key="AddDrive.Network">Síť</system:String>
+	<system:String x:Key="AddDrive.ReadOnly">Jen pro čtení</system:String>
+	<system:String x:Key="AddDrive.MountAtBoot">Automaticky připojit</system:String>
+	<system:String x:Key="AddDrive.AuthAtConnect">Připojit pod jiným uživatelem</system:String>
+	<system:String x:Key="AddDrive.Account">Účet</system:String>
+	<system:String x:Key="AddDrive.Username">Uživatel</system:String>
+	<system:String x:Key="AddDrive.Password">Heslo</system:String>
+	<system:String x:Key="AddDrive.Anonymous">Anonymní</system:String>
+	<system:String x:Key="AddDrive.Address">Adresa</system:String>
 	<system:String x:Key="AddDrive.Port">Port</system:String>
-	<system:String x:Key="AddDrive.Device">Device</system:String>
-	<system:String x:Key="AddDrive.PrivateKey">Private Key</system:String>
-	<system:String x:Key="AddDrive.Charset">Charset</system:String>
-	<system:String x:Key="AddDrive.TransferMode">Transfer Mode</system:String>
-	<system:String x:Key="AddDrive.Encryption">Encryption</system:String>
+	<system:String x:Key="AddDrive.Device">Zařízení</system:String>
+	<system:String x:Key="AddDrive.PrivateKey">Soukromý klíč</system:String>
+	<system:String x:Key="AddDrive.Charset">Kódování</system:String>
+	<system:String x:Key="AddDrive.TransferMode">Režim přenosu</system:String>
+	<system:String x:Key="AddDrive.Encryption">Šifrování</system:String>
 
-	<system:String x:Key="Vailidation.Volume">Please enter a valid volume label</system:String>
-	<system:String x:Key="Vailidation.VolumeExist">This name alreay exists</system:String>
-	<system:String x:Key="Vailidation.VolumeInvalidChar">A volume label can't contain any of the following characters:</system:String>
-	<system:String x:Key="Vailidation.VolumeInvalidStr">Do not use the following reserved names:</system:String>
+	<system:String x:Key="Vailidation.Volume">Nesprávný název disku</system:String>
+	<system:String x:Key="Vailidation.VolumeExist">Název již existuje</system:String>
+	<system:String x:Key="Vailidation.VolumeInvalidChar">Název disku nemůže obsahovat tyto znaky:</system:String>
+	<system:String x:Key="Vailidation.VolumeInvalidStr">Tyto názvy jsou rezervovány:</system:String>
 	<system:String x:Key="Vailidation.Letter">Please select a unassigned drive letter</system:String>
 	<system:String x:Key="Vailidation.Address">Please enter a hostname or IP address</system:String>
 	<system:String x:Key="Vailidation.Address.WebDAV">Please enter a URL</system:String>
