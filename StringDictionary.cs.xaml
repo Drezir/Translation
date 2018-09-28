@@ -3,28 +3,28 @@
 	<!--  Menu bar>Settings, General  -->
 	<system:String x:Key="Current.Language">cs</system:String>
 
-	<system:String x:Key="Settings">Settings</system:String>
-	<system:String x:Key="Settings.Header">Settings</system:String>
-	<system:String x:Key="Settings.General">General</system:String>
-	<system:String x:Key="Settings.Language">Language</system:String>
-	<system:String x:Key="Settings.Update">Update</system:String>
+	<system:String x:Key="Settings">Nastavení</system:String>
+	<system:String x:Key="Settings.Header">Nastavení</system:String>
+	<system:String x:Key="Settings.General">Obecné</system:String>
+	<system:String x:Key="Settings.Language">Jazyk</system:String>
+	<system:String x:Key="Settings.Update">Aktualizovat</system:String>
 	<system:String x:Key="Settings.Facebook">Facebook</system:String>
 	<system:String x:Key="Settings.Facebook.Like">Like</system:String>
-	<system:String x:Key="Settings.TemporaryPath">Temporary</system:String>
-	<system:String x:Key="Settings.Default">Default</system:String>
-	<system:String x:Key="Settings.License">License</system:String>
+	<system:String x:Key="Settings.TemporaryPath">Dočasné</system:String>
+	<system:String x:Key="Settings.Default">Výchozí</system:String>
+	<system:String x:Key="Settings.License">Licence</system:String>
 	<system:String x:Key="Settings.Proxy">Proxy</system:String>
 
-	<system:String x:Key="Settings.General.RunAtBoot">Run a program automatically when Windows starts</system:String>
-	<system:String x:Key="Settings.General.RunAtConnect">Run File Explorer when a drive has connected</system:String>
+	<system:String x:Key="Settings.General.RunAtBoot">Spustit při startu PC</system:String>
+	<system:String x:Key="Settings.General.RunAtConnect">Otevřít průzkumníka při připojení disku</system:String>
 
-	<system:String x:Key="Notice">Notice</system:String>
-	<system:String x:Key="AddDrive">Add</system:String>
-	<system:String x:Key="AddDrive.Header">New Drive</system:String>
-	<system:String x:Key="AddDrive.Storage">Storage</system:String>
+	<system:String x:Key="Notice">Upozornění</system:String>
+	<system:String x:Key="AddDrive">Přidat</system:String>
+	<system:String x:Key="AddDrive.Header">Nový disk</system:String>
+	<system:String x:Key="AddDrive.Storage">Úložiště</system:String>
 
 	<!--  Drive  -->
-	<system:String x:Key="AddDrive.Drive">Drive</system:String>
+	<system:String x:Key="AddDrive.Drive">Disk</system:String>
 
 	<!--  Add New Storage  -->
 	<system:String x:Key="AddDrive.Network">Network</system:String>
